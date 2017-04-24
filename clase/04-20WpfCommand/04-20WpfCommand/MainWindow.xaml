@@ -1,0 +1,23 @@
+﻿<Window x:Class="_04_20WpfCommand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" MouseMove="Window_MouseMove">
+    <StackPanel x:Name="stackprincipal" RenderTransformOrigin="0.5,0.5">
+        <StackPanel.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-10.229"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </StackPanel.RenderTransform>
+        <TextBox x:Name="tbx1" FontSize="15" HorizontalAlignment="Left" Height="68" Margin="10" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="497"/>
+        <TextBox x:Name="tbx2" FontSize="15" HorizontalAlignment="Left" Height="68" Margin="10" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="497"/>
+        <TextBox x:Name="tbx3" FontSize="15" HorizontalAlignment="Left" Height="68" Margin="10" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="497"/>
+        <StackPanel FocusManager.IsFocusScope="True" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Command="Cut" FontSize="18" Content="Cortar" Margin="10"/>
+            <Button Command="Copy" FontSize="18" Content="Copiar" Margin="10"/>
+            <Button Command="Paste" FontSize="18" Content="Pegar" Margin="10"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

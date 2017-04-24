@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\bin\Debug\03-27WPFCanvas.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\bin\Debug\03-27WPFCanvas.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\bin\Debug\03-27WPFCanvas.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\03-27WPFCanvas.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\03-27WPFCanvas_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\03-27WPFCanvas.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\_03_27WPFCanvas.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\03-27WPFCanvas.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\03-27WPFCanvas.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27WPFCanvas\03-27WPFCanvas\obj\Debug\03-27WPFCanvas.pdb

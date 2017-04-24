@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\bin\Debug\04-19TextboxExpander.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\bin\Debug\04-19TextboxExpander.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\bin\Debug\04-19TextboxExpander.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\04-19TextboxExpander.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\04-19TextboxExpander_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\04-19TextboxExpander.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\_04_19TextboxExpander.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\04-19TextboxExpander.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\04-19TextboxExpander.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-19TextboxExpander\04-19TextboxExpander\obj\Debug\04-19TextboxExpander.pdb

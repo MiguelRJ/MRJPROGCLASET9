@@ -1,0 +1,9 @@
+﻿<Window x:Name="WinEntrada" x:Class="_04_03TextPass.Win_Entrada"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="entrada" Height="300" Width="300" Background="silver">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Bienvenido" TextAlignment="Center" Foreground="Gold" FontSize="30" FontWeight="ExtraBold" VerticalAlignment="Top" Height="33" Width="272"/>
+
+    </Grid>
+</Window>

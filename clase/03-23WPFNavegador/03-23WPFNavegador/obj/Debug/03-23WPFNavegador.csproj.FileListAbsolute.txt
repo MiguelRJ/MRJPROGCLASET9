@@ -1,0 +1,16 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\bin\Debug\03-23WPFNavegador.exe.manifest
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\bin\Debug\03-23WPFNavegador.xbap
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\bin\Debug\03-23WPFNavegador.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\bin\Debug\03-23WPFNavegador.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\Page1.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\Page1.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\_03_23WPFNavegador.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.TrustInfo.xml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.exe.manifest
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.xbap
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFNavegador\03-23WPFNavegador\obj\Debug\03-23WPFNavegador.pdb

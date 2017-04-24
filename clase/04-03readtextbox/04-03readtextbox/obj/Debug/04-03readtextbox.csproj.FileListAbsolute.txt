@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\bin\Debug\04-03readtextbox.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\bin\Debug\04-03readtextbox.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\bin\Debug\04-03readtextbox.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\04-03readtextbox.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\04-03readtextbox_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\04-03readtextbox.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\_04_03readtextbox.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\04-03readtextbox.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\04-03readtextbox.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03readtextbox\04-03readtextbox\obj\Debug\04-03readtextbox.pdb

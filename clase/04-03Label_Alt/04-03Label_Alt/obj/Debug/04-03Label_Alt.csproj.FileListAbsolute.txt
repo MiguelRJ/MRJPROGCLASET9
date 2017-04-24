@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\bin\Debug\04-03Label_Alt.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\bin\Debug\04-03Label_Alt.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\bin\Debug\04-03Label_Alt.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\04-03Label_Alt_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\04-03Label_Alt.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\_04_03Label_Alt.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\04-03Label_Alt.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\04-03Label_Alt.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\04-03Label_Alt.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03Label_Alt\04-03Label_Alt\obj\Debug\04-03Label_Alt.csprojResolveAssemblyReference.cache

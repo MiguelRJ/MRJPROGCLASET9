@@ -1,0 +1,47 @@
+﻿<Window x:Class="_03_23WPFPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="526.792" Width="741.212">
+    <Grid>
+        <StackPanel x:Name="stpPanelBotones" HorizontalAlignment="Left" Height="171" VerticalAlignment="Top" Width="250" Margin="10,10,0,0" OpacityMask="#FFF5E7E7" RenderTransformOrigin="0.5,0.5">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Silver" Offset="0.26"/>
+                    <GradientStop Color="Goldenrod" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <Button Content="Orientacion" HorizontalAlignment="Center" Width="75" Margin="0,10,0,0" Click="Button_Click_1"/>
+            <Button Content="Button" HorizontalAlignment="Center" Width="75" Margin="0,10,0,0"/>
+            <Button Content="Button" HorizontalAlignment="Center" Width="75" Margin="0,10,0,0"/>
+            <Button Content="Button" HorizontalAlignment="Center" Width="75" Margin="0,10,0,0"/>
+        </StackPanel>
+        <DockPanel HorizontalAlignment="Left" Height="171" LastChildFill="False" Margin="309,10,0,0" VerticalAlignment="Top" Width="414">
+            <DockPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Goldenrod" Offset="0"/>
+                    <GradientStop Color="Silver" Offset="1"/>
+                </LinearGradientBrush>
+            </DockPanel.Background>
+            <Button DockPanel.Dock="Left"  Content="9" Background="Crimson" Width="50" Height="50" FontFamily="Webdings" FontSize="20" FontWeight="Bold" Click="Button_Click_2"/>
+            <Button DockPanel.Dock="Right" Content=":" Background="Crimson" Width="50" Height="50" FontFamily="Webdings" FontSize="20" FontWeight="Bold"/>
+            <Image x:Name="imgKoala" Margin="15" Source="C:\Users\Public\Pictures\Sample Pictures\Koala.jpg" Width="265" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </DockPanel>
+
+    </Grid>
+</Window>

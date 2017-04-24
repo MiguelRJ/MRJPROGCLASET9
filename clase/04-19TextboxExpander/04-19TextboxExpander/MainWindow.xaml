@@ -1,0 +1,23 @@
+﻿<Window x:Class="_04_19TextboxExpander.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock Background="Crimson"  Margin="10,10,10,0" TextWrapping="Wrap" VerticalAlignment="Top">
+            <Run Background="Goldenrod" Text="hola caracola"/>
+            <LineBreak/>
+            <LineBreak/>
+            <Run Background="Silver" Text="adios baratarabo"/>
+            <LineBreak/>
+        </TextBlock>
+        
+        <Expander Header="Abre si tienes huevos" Background="Coral" Margin="10,0,10,10" VerticalAlignment="Bottom" ExpandDirection="Up">
+            <TextBlock Background="Crimson" TextWrapping="Wrap" VerticalAlignment="Top">
+                <LineBreak/>
+                <Run Background="Goldenrod" FontFamily="Comic Sans MS" FontSize="24" Text="Me voy a hacer una escalera con los huesos de tus muertos para subirme a los cuernos de tu padre y cagarme en la boca de tu puta madre, por abrir" TextDecorations="{x:Null}"/>
+                <LineBreak/>
+            </TextBlock>
+        </Expander>
+
+    </Grid>
+</Window>

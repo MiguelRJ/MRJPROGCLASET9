@@ -1,0 +1,18 @@
+﻿<Window x:Class="_04_03readtextbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <RichTextBox HorizontalAlignment="Left" Height="176" Margin="10,10,0,0" VerticalAlignment="Top" Width="497">
+            <FlowDocument>
+                <Paragraph FontSize="40">
+                    <Run Text="hola caracola"/>
+                </Paragraph>
+                <Paragraph Foreground="Gray" FontStyle="Italic" FontSize="14" TextAlignment="Center">
+                    <Run Text="Gracias al control RichtTextBox puedo mostrar texto enriquecido y otras cosas"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

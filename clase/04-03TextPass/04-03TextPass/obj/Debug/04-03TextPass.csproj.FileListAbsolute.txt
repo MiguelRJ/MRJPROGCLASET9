@@ -1,0 +1,15 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\bin\Debug\04-03TextPass.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\bin\Debug\04-03TextPass.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\bin\Debug\04-03TextPass.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\04-03TextPass.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\04-03TextPass_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\04-03TextPass.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\_04_03TextPass.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\04-03TextPass.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\04-03TextPass.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\04-03TextPass.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\Win_Entrada.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-03TextPass\04-03TextPass\obj\Debug\Win_Entrada.g.cs

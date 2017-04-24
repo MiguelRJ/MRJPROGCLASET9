@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\bin\Debug\04-05SortDescriptionListBox.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\bin\Debug\04-05SortDescriptionListBox.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\bin\Debug\04-05SortDescriptionListBox.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\04-05SortDescriptionListBox.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\04-05SortDescriptionListBox_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\04-05SortDescriptionListBox.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\_04_05SortDescriptionListBox.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\04-05SortDescriptionListBox.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\04-05SortDescriptionListBox.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-05SortDescriptionListBox\04-05SortDescriptionListBox\obj\Debug\04-05SortDescriptionListBox.pdb

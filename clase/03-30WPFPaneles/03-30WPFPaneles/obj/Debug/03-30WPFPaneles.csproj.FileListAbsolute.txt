@@ -1,0 +1,12 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\bin\Debug\03-30WPFPaneles.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\bin\Debug\03-30WPFPaneles.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\bin\Debug\03-30WPFPaneles.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\03-30WPFPaneles_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\03-30WPFPaneles.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\_03_30WPFPaneles.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\03-30WPFPaneles.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\03-30WPFPaneles.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-30WPFPaneles\03-30WPFPaneles\obj\Debug\03-30WPFPaneles.pdb

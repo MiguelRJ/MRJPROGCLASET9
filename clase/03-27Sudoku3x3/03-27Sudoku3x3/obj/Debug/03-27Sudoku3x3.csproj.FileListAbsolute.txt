@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\bin\Debug\03-27Sudoku3x3.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\bin\Debug\03-27Sudoku3x3.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\bin\Debug\03-27Sudoku3x3.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\03-27Sudoku3x3.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\03-27Sudoku3x3_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\03-27Sudoku3x3.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\_03_27Sudoku3x3.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\03-27Sudoku3x3.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\03-27Sudoku3x3.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-27Sudoku3x3\03-27Sudoku3x3\obj\Debug\03-27Sudoku3x3.pdb

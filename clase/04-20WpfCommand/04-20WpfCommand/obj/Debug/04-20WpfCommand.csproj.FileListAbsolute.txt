@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\bin\Debug\04-20WpfCommand.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\bin\Debug\04-20WpfCommand.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\bin\Debug\04-20WpfCommand.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\04-20WpfCommand.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\04-20WpfCommand_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\04-20WpfCommand.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\_04_20WpfCommand.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\04-20WpfCommand.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\04-20WpfCommand.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfCommand\04-20WpfCommand\obj\Debug\04-20WpfCommand.pdb

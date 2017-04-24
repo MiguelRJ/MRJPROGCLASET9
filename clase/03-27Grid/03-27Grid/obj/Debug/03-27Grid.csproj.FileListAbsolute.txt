@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\bin\Debug\03-27Grid.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\bin\Debug\03-27Grid.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\bin\Debug\03-27Grid.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\03-27Grid.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\03-27Grid_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\03-27Grid.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\_03_27Grid.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\03-27Grid.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\03-27Grid.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-27Grid\03-27Grid\obj\Debug\03-27Grid.pdb

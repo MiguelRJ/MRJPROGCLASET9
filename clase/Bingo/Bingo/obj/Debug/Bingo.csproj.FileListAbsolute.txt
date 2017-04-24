@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\bin\Debug\Bingo.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\bin\Debug\Bingo.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\bin\Debug\Bingo.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Bingo\Bingo\obj\Debug\Bingo.pdb

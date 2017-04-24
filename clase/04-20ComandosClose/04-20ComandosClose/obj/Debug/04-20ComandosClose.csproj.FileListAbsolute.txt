@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\bin\Debug\04-20ComandosClose.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\bin\Debug\04-20ComandosClose.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\bin\Debug\04-20ComandosClose.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\04-20ComandosClose.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\04-20ComandosClose_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\04-20ComandosClose.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\_04_20ComandosClose.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\04-20ComandosClose.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\04-20ComandosClose.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20ComandosClose\04-20ComandosClose\obj\Debug\04-20ComandosClose.pdb

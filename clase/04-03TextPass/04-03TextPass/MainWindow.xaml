@@ -1,0 +1,22 @@
+﻿<Window x:Class="_04_03TextPass.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bienvnido loco xD" Height="350" Width="525" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="tbxUser" HorizontalAlignment="Left" Height="22" Margin="213,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="tbxPass" HorizontalAlignment="Left" Margin="213,139,0,0" VerticalAlignment="Top" Width="120" Height="26"/>
+        <Label x:Name="lblUser" FontSize="20" Content="Usuario:" HorizontalAlignment="Left" Margin="126,74,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPass" FontSize="20" Content="Contraseña:" HorizontalAlignment="Left" Margin="94,128,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.126,0.551"/>
+        <Button x:Name="btnIniciarSesion" Content="Iniciar Sesion" HorizontalAlignment="Left" Margin="374,260,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.853,2.573" Click="btnIniciarSesion_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFFFE800" Offset="0.5"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                    <GradientStop Color="Red" Offset="0.034"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="tbkTitulo" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Inicia Sesion" FontSize="30" FontFamily="arial" TextAlignment="Center" FontWeight="Bold" VerticalAlignment="Top" Height="40" Width="497"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\bin\Debug\03-29WPFbotones.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\bin\Debug\03-29WPFbotones.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\bin\Debug\03-29WPFbotones.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\03-29WPFbotones.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\03-29WPFbotones_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\03-29WPFbotones.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\_03_29WPFbotones.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\03-29WPFbotones.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\03-29WPFbotones.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-29WPFbotones\03-29WPFbotones\obj\Debug\03-29WPFbotones.pdb

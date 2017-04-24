@@ -1,0 +1,21 @@
+﻿<Window x:Class="Migue.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:ejemplo="clr-namespace:Migue._04_24EnlaceDatosClaseFilm">
+    <Window.Resources>
+        <ejemplo:Film x:Key="filmInfiltrados" Titulo="Infiltrados" Genero="Mafia" Oscar="{x:Null}" Calificacion="4.7"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Titulo" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Genero" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top"/>
+        <Label Content="Oscar" HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top"/>
+        <Label Content="Califi" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top"/>
+        <TextBlock TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

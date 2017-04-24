@@ -1,0 +1,15 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\bin\Debug\20-04WPFIntercambioDeDatos.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\bin\Debug\20-04WPFIntercambioDeDatos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\bin\Debug\20-04WPFIntercambioDeDatos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\20-04WPFIntercambioDeDatos.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\venDestino.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\venDestino.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\20-04WPFIntercambioDeDatos_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\20-04WPFIntercambioDeDatos.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\_20_04WPFIntercambioDeDatos.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\20-04WPFIntercambioDeDatos.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\20-04WPFIntercambioDeDatos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\20-04WPFIntercambioDeDatos\20-04WPFIntercambioDeDatos\obj\Debug\20-04WPFIntercambioDeDatos.pdb

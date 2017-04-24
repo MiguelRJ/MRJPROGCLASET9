@@ -1,0 +1,19 @@
+﻿<Window x:Class="_03_27WPFWrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ScrollViewer>
+        <WrapPanel HorizontalAlignment="Left" VerticalAlignment="Top" Orientation="Horizontal">
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_5.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_10.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_20.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_50.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_100.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_200.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_500.png" Margin="10"/>
+            <Image Height="100" Width="100" Source="Imagenes/Euro_Billete_10.png" Margin="10"/>
+        </WrapPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

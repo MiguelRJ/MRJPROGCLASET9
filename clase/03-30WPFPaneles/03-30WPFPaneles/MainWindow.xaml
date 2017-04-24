@@ -1,0 +1,18 @@
+﻿<Window x:Name="WindowMain" x:Class="_03_30WPFPaneles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="Slider">
+        <Slider x:Name="SliderImg" Maximum="200" Minimum="0" HorizontalAlignment="Left" Margin="215,36,0,0" VerticalAlignment="Top" Width="292" TickPlacement="TopLeft" ValueChanged="Slider_ValueChanged_1"/>
+        <Image x:Name="imgOvni" Source="img/Ovni.png" HorizontalAlignment="Left" Height="{Binding Value,ElementName=SliderImg}" Margin="10,10,0,0" VerticalAlignment="Top" Width="{Binding Value,ElementName=SliderImg}" Stretch="Fill"/>
+        <Label Content="Ajustar imagen" HorizontalAlignment="Left" Margin="330,5,0,0" VerticalAlignment="Top"/>
+        <ScrollViewer x:Name="SVTexto" HorizontalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="100" Margin="322,63,0,0" VerticalAlignment="Top" Width="185">
+            <TextBlock x:Name="tBlockLorem" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="auto" Width="163">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </TextBlock>
+        </ScrollViewer>
+        <Button x:Name="btnPos" Content="Siguiente" HorizontalAlignment="Left" Margin="322,168,0,0" VerticalAlignment="Top" Width="75" Click="btnPos_Click"/>
+        <Button x:Name="btnAtras" Content="Atras" HorizontalAlignment="Left" Margin="432,168,0,0" VerticalAlignment="Top" Width="75" Click="btnAtras_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="35" Margin="215,195,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="292" BorderThickness="1,10,1,1" BorderBrush="Black" ToolTip="que pasa loco Xd" TextChanged="TextBox_TextChanged_1" KeyDown="TextBox_KeyDown_1" KeyUp="TextBox_KeyUp_1"/>
+    </Grid>
+</Window>

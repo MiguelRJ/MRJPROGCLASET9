@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\bin\Debug\04-20WpfEventosEnrutados.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\bin\Debug\04-20WpfEventosEnrutados.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\bin\Debug\04-20WpfEventosEnrutados.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\04-20WpfEventosEnrutados.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\04-20WpfEventosEnrutados_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\04-20WpfEventosEnrutados.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\_04_20WpfEventosEnrutados.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\04-20WpfEventosEnrutados.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\04-20WpfEventosEnrutados.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-20WpfEventosEnrutados\04-20WpfEventosEnrutados\obj\Debug\04-20WpfEventosEnrutados.pdb

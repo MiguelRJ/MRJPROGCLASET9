@@ -1,0 +1,14 @@
+﻿<Window x:Class="_04_20WpfEventosEnrutados.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" MouseMove="Window_MouseMove">
+    <StackPanel>
+        <TextBlock Name="tbx1" Margin="10" HorizontalAlignment="Right" FontSize="16" FontWeight="Bold" Foreground="Goldenrod" Text="TextBlock_1"/>
+        <StackPanel HorizontalAlignment="Left" Height="122">
+            <TextBlock>
+                <Run Text="Run-TextBlock 3" Foreground="Crimson"/>
+            </TextBlock>
+            <Image Height="100" Source="img/dog.jpg" MouseMove="Image_MouseMove"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

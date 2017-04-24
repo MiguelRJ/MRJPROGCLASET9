@@ -1,0 +1,12 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\bin\Debug\04-24EnlaceADatos.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\bin\Debug\04-24EnlaceADatos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\bin\Debug\04-24EnlaceADatos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\04-24EnlaceADatos_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\04-24EnlaceADatos.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\_04_24EnlaceADatos.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\04-24EnlaceADatos.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\04-24EnlaceADatos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceADatos\04-24EnlaceADatos\obj\Debug\04-24EnlaceADatos.pdb

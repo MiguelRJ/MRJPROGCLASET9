@@ -1,0 +1,361 @@
+WPF Windows Presentatios Foundation
+
+WPF Basico
+
+	03-22----------
+	WPF y sus herramientas hacen ams facil la puta vida loco xD
+	Con el codigo de c# puedo hacer todo en xml, pero al reves es mas complicado
+	Para aplicaciones web puras se usa silverlight
+	Una aplicacion WPF tiene archivos .xaml y .cs
+	
+	XAML
+	Etiqueta Window (using de c#)
+		tiene muchos atributos
+		Class - nombre 
+		xmlns - espacio de nombre por defecto
+		xmlns:x - 
+		title - nombre de la barra de la ventana
+		ancho
+		alto
+	
+	Grid (rejilla) control contenedor
+	
+	se pueden añadir a mano en el control contenedor de dos formas:
+		- como atributo (solo puede haber un atributo con el nombre) 
+		- como elemento (puede tener varios)
+
+	
+	MainWindow.xaml.cs
+	etiqueta partial (public partial class MainWindow : Window) - esta incompleta , repartida en varios ficheros
+	
+	Code_Behind - el codigo c# detras de la logica
+
+	BOTON:
+		<Button Content="Button" HorizontalAlignment="Left" Margin="242,108,0,0" VerticalAlignment="Top" Width="75"/>
+		UIElement la clase por encima de elementos y controles 
+		
+	ventana modal o de dialogo (la que no deja volver al padre).
+	
+	(Button)sender 
+	RoutedEventArgs e informacion de las condiciones del evento
+
+	cuidado con cambiar nombres ya puestos, porque aparecen en muchos sitios
+	
+	una cosa es el nombre de la instancia del objeto y otro el nombre que yo le pongo al objeto a traves de su propiedad name
+	hay que poner nombre al button en el cuadro de las propiedades
+	todo control que interactue con el usuario tiene nombre personalizado
+	y el nombre va a empezar siempre por 3 o 4 letras que representen al control y despues lo que crea mejor (x:Name="btnPulsame")
+	
+	03-23----------
+	paneles para ams elementos
+	boton muestra imagen entonces imagen como contenido de <button> y no como atributo content
+	<Image Source="D:\Escritorio\Koala.jpg" Height="50" Width="120"/>
+	
+	layout la forma de distribuir los elementos del interfaz grafico, para ello se usan paneles
+	asignacion de valores INLINE son los aributos y deben ir entre comillas
+	
+	WPF aplicacion navegador
+	
+	CONTROLES
+	Suelen tener una representacion grafica y los componentes no
+	
+	todo aplicacion tiene por defecto 
+
+	la informacion que muestra una aplicacion se distribuye visualmente en un contenedor al forma de distribuirla se llama layout
+	los layouts se realizan a traves de paneles, que son contenedores
+	un panel es un contorl que distribuye como se organizan los controles de su interior
+	el contenido de un panel se organiza de forma absoluta() o relativa()
+	
+	Paneles:
+		StackPanel -- panel simple que permite una colecciond e UIElement de un interior, 
+				de tal manera quue la distribucion de apilan uno detras de otro y
+				la forma de apilarse tiene que ver con su propiedad 'orientation', 
+				que peude ser vertical u horizontal, si no se especifica tamaño, ocupa todo
+				
+		DockPanel -- 
+		Grid -- panel mas poderoso de WPF, es flexible y se puede conseguir cualquier distribucion con el,
+				esta organizado en filas y columnas, no seria necesiraio otros paneles
+				una celda puede ser un contenedor
+				para crear una rejilla definimos el numero de celdas y para saber este numero tengo que tener las columnas y las filas
+				<Grid.ColumDefinitios>
+					<ColumnDefinitios>
+				igual para filas
+				Propiedades --> Grid.column Grid.row propiedades de dependencia
+				ancho fijo auto o proporcional
+				Auto -> la columna o file se adapta al tamaño de lo que vayas a meter
+				
+				
+				
+		WrapPanel -- añade elementos de izq a der y arr abj, esto se puede cambiar
+				depende de las dimensiones del conetnido se distibuiran de formas distintas
+				cuando la distri es horizontal y tenemos algo vertical no lo vemos
+		Canvas -- sirve para absoluto de lso controles que tiene
+			si utiliza una coordenada absoluta siginifca que la tiene que comprar con algun punto left top bottom right
+			si una distri es absoluto estara siempre en esa posicion
+			puede tener posicion relativa a su padre
+			el elemento contenido dentro del canvas se posiciona con referencia 
+			los canvas peuden solaparse y las posiciones de los elementos tambien 
+			en muchas ocasiones solo necesito usar un canvas como contenedor de otro objeto no tiene propiedad visible, solo distribuye
+			un canvas no es visible si: 
+				su propuiedad width es 0
+				su propiedad height vale 0
+				su propiedad background es null
+				su propiedad opacity es 0
+				su propiedad visibility es collapse
+				su padre no es visible
+				
+
+	<children> propiedad de los paneles que contienen los elementos de dentro del panel
+	los controles heredan de UIElement, despues Control, despues controles
+	
+	la distribucion la hace el panel y de forma auto
+	
+	<Grid> --> rejilla
+		propiedad de columnas y filas para botones, el boton al ser hijo de la rejilla asume la propeidad que se llamam propiedad de dependencia
+		propiedad de dependencia grid.columspan 
+		
+
+
+	03-27--------------------
+	Sudoku 
+		
+
+	Controles
+		aunque tienen aspecto visual, no todo lo que tenga aspecto visual no es un control ya que algunos elementos son decorativos
+		los controles permiten adinamiento 
+		admiten asapectos visuales basados en estilos lo que en wpf se llama plantillas
+		se puede decir que on control implemente una plantilla ya creada
+		el contenido que se peude mostrar enun control puede provenir de diferentes fuentes 
+		de tal manera que se puede relacionar ocn una fuente de datos a traves de lo que en wpf se llama enlace de datos de forma automatica
+		si estoy usando enlace de datos cualquier cambio en los datos origen y el control que lo muestra se aplica directamente
+		permite usar triggers para que se sincronizen determinados datos
+		se pueden crear controles complejos
+		controles que contienen un elemento (content control (button)) && controles que pueden tener una coleccion propiedad items (item control ())
+		tienen caracteristicas comunes UIElement
+		los controles producen eventos
+		unos tienen contenido de texto y otros de controles
+	
+	03-29---------------------
+	
+	Controles
+		el origen de datos puede estar en un xml en una BD en una clase o una lista y 
+		ademas la sincronizacion entre la interfaz y los datos puede ser automatica en uno o dos sentidos
+		se pueden crear controles personalizados
+		todos los controels estan basados en plantillas y estas plantillas se pueden cambiar
+		clase button base de la que heredan 3 controles considerados como botones (button, radiobutton, checkbox)
+		tres sintaxis para asignar contenido a un boton 
+		(content,poner dentro de button el contenido (cerrando con </Button>), o que no tenga contenido de texto (meter otro control))
+		Button.IsEnabled en false no se puede interactuar con el 
+		Button.Visibility em false no muestra 
+		ToolTip para ayuda en botones y demas
+		se pueden hacer copias de botones, o añadir a otro boton el evento del que quiere copiar
+		istabstop
+		
+		
+	Radiobuton
+		GroupName IsChecked 
+		cuando a una propiedad se le asigna un valor entre llaves significa que ese valor no es literal, es codigo para interpretar
+		
+	Dispachedtimer
+	
+	03-30-----------------------------
+	
+	Slider
+		Element slider, deslizador entre un minimo y un maximo
+		poner horizontal o vertical
+		cuando tengo un control que va a cambiar valores de otro lo primero es igualar los valores
+		asignar altura o anchura con un slider "{Binding Value,ElementName=SliderImg}"
+		
+		scrollbar
+		2 prppiedades cuando y como que tiene que pasar 
+		visibility cuando se tiene que ver
+		
+		scroll to vertical offset (metodo)
+		SVTexto.ScrollToVerticalOffset(VerticalOffset -= 50);
+
+	Controles de texto
+		
+		TextBox -->  bordes, textChange, tooltip
+		RichtTextBox
+		PasswordTextBoox
+		
+	(x2 - x1)^2 + (y2-y1)^2 <= (R1 - R2)^2
+
+	04-03------------------------------
+	handler. tecla permitida o no permitida a true 
+	
+	tener el control completo de text box a traves del aprametro "e"
+	deja a las teclas paasar peudes quedarte con la eltra y mandar un echo que quieras
+	
+	las frases del texto box que cuando toma el foco desaparecen MIRAR
+
+	passwood box 
+		cuando el usuario escribe ve los caracteres de puntos negro y estos se peuden cambiar
+		la propiedad con el texto introducido se llama "password"
+		la pripiedad para cambiar el caracter del echo se llama "passwordchar"
+	
+	abrir ventanas con no con entrada.Show();
+	entrada.ShowDialog();
+
+	textboxUsuario.text = string.empty; && textboxUsuario.Clear();
+	
+		richtextbox permite texto e imagenes para ello utiliza dentro un elemento hijo de tipo FloDocument 
+		Paragraph cada uno puede tener su propio estilo 
+	
+		label texto normal pero de alguna manera peude darle cierto comportamiento puesto que no solo getiona texto tiene content control
+		con el conrol label peuden aparecer determinados caracteres en una frase apra asignarles un comprtamineto de teclas de atajo de tal manera
+		que para acceder a un evento puedo usar Alt + letra subrayada para ir al foco del control indicado 
+		para hacer eso se tiene que poner un elemento dentro del label que se llame accesText
+	
+		cuando pongo una letra de atajo (archivo Alt+a) (nuevo Alt+n) 
+
+	Controles para gestionar elementos:
+		ListBox
+		ComboBox
+			Lista de seleccionables, controels amplios porque hacen referencia a clases que tienen sus miembros
+			selectedIndex
+			seelctedItem
+			items ver la coleccion de los items
+			ItemTamplate todo elementos tienen una coleccion de recursos, si no se dice tiene los recursos por defecto, 
+			pero yo puedo definir a traves de los recursos los estilos  de sus propiedades de depenedencia
+			una haaarta de eventos
+			
+			
+		TagControl
+
+	04-05 -----------------------
+		regla (tipo sortdescription) que añado con add tiene 2 parametros: a que propiedad te refieres para que ordene,que tipo de ordenacion (asc, desc)
+		
+		en un list box se seleciona simple multiple o extendida
+			la diferencia entra multiple o extendida es: al tener extendida necesitas pulsa control para seleccionar algunos mas
+			
+		TabControl y lo que tiene dentro son TabItem
+			ItemSource
+			ItemTemplate
+			SelectedItem
+			SelectedIndex
+			SelectedChanged
+			
+		Menu 
+			MenuItem
+			las opciones del meun permiten un atributo que se llama command y asignar un comando definido por el sistema o propio
+			si yo a la opcion pegar asigno la del sistema "paste" si no hay nada que pegar saldra inhabilitado
+
+		Menu contextual
+			<Window.ContextMenu>
+        			<ContextMenu>
+            				<MenuItem Header="Accion 1"/>
+            				<MenuItem Header="Accion 2"/>
+            				<MenuItem Header="Accion 3"/>
+       				</ContextMenu>
+    			</Window.ContextMenu>
+			Se puede asociar a un boton, se abre con el boton derecho
+			http://www.genfavicon.com/
+			http://www.favicon.cc/
+
+	04-06-----------------------
+		las imagenes iconos deben incrustarse, haceindo click en la img propiedades y eligiendo recurso incrustado
+		
+		opciones de menu chekeables
+			<MenuItem Header="_Otro" Name="chkOtro" IsCheckable="True" IsChecked="True"/>
+		
+		una aplicacion debe tener una barra de herramientas con las acciones mas importantes
+		se coloca debajo de los menus
+		hay barras de herrramientas ya configuradas
+		toolbar
+	
+	04-19------------------------
+		Textbox
+			
+			linebreak - elemento vacio para escribir lineas vacias
+		Expander
+			se amblia y se contrae
+			IsExpanded true o false
+			dowm left up right para saber hacia donde se expande
+			
+		
+		app.axml
+		StartupUri ventana inicial
+
+		clase application - busca ventanas abiertas y se peuden cerrar o abrir segun eventos
+			object threading y qpplication (orden)
+		Current - propiedad estatica de solo lectura que contiene la instancia actual
+		MainWindow - 
+		Properties - coleccion de propiedades de la collecion actual
+		ResourceAssembly - 
+		Resources - obtiene los recursos o los modifica
+		StratupUri - obtiene o establece el interfaz grafico que se iniciara 
+		FinResource - busca un recurso que pertenezca a la aplicacion
+		Uri - localiza ventanas
+		Metodos "On..." - metodos virtuales pensados para que se reescriban, metodo es controlador de un evento que se llama igual que un evento
+		Run - inicia ventana
+
+	04-20------------------------------
+		App objActual = Application.Current as App;//si no se puede enganchar devuelve null
+		tbcTitulo.Text = (Application.Current as App).Dato;
+		Auto propiedad de coleccion puede lanzarse una excepcion nula (porque ve que no le he dado memoria)
+		se puede cerrar la ventana principal y que las demas ventanas funcionen, para esto hay que hacer Application o App .Current.Shutdown(); 
+		
+		Eventos
+			Diferencia en eventos entre Wpf y forms, en Wpf los eventos se propagan por el arbol visual, 
+			los eventos siguen un mecanismo de propagacion asociada a su arbol jerarquico, enrutamiento de eventos.
+			Todo lo que se propaga del hijo hasta el padre se llaman como el nombre del evento que sea y del hijo al padre tambien pero delante aparece "Preview".
+			
+			Hay 3 tipos de eventos enrutados:
+				- Hacia afuera Bubbling -- busca un manejador del eventos en el sitio donde se produce, luego en su padre, luego en el padre de su padre y asi hasta la madre que lo pario
+							
+				- Hacia dentro Tunneling -- busca un manejador de eventos en el padre, y sigue buscando hasta buscar en el sitio donde de provocó
+
+				- Directos     Direct -- Se produce en el objeto en el mismo sitio que se ha originado (_Click)
+			
+		tbx1.Text = "(" + e.GetPosition(this).X + "," + e.GetPosition(this).Y + ")"+e.Source.GetType().Name;
+			obtener en un mousemove las coordenadas del evento + el nombre del elemento por el que pasa por encima
+		e.Handled = true; no permite que el evento se propague
+
+
+		Comandos (acciones determiandas)
+			propiedad command quien va a ser el elementos y que parametros voy a pasar
+			commandTarget elemento destino
+			command
+			cuando se invoca un comando se lanzan dos eventos executed (tunnel)busca el hijo y previewExecuted (bubbling)busca padre
+		
+			en wpf hay comandos creados neuvo,abrir,cerrar,copiar,cortar,pegar (routedcommand)
+				los routedcommand estan definidos en 5 bloques
+				- aplicationcommand, comando estandar para cualquier aplicacion como copy,paste,undo,redo,find,open,save as,printpreview
+				- componentcommand, comando relacionado con el interfaz grafico, moveleft, movetoend,scrollpagedown,textselection
+				- mediacommand, comando relacionado con la multimedia, play,pause,nexttrack,volumen...
+				- navegationcommand, comando relacionado con la navegacion, gottpage,nextpage,refresh,zoom
+				- editingcommand, aligntcenter, (en el manual)
+			solo hay una instancia de los comandos (singleton)
+
+			La logica que sigue wpf para la gestion de comando se puede simplificar en 4 aspectos
+				- Accion que tengo que hacer
+				- Objeto origen que invoca el comando
+				- objeto destino (target)
+				- relacion logica entre los dos objetos
+			un textblock tiene soporte para cortar copiar pegar, un boton no 
+			
+			IsFocusScope
+				si no se le especifica target se puede usar "isfocusscape" para usar ese como target
+			
+	04-24----------------------
+		En "resources" se ponen todos los recursos que quiera usa en mi app 
+		todo comando implementa un unterfaz, esta obligado a tener dos metodos "execute" (hace la accion) "canExecute" (devuelve bool, auto IsEnabled)
+		la propiedad commandBinding gestiona los comandos
+		los comandos son eventos enrutados
+		
+		<Window.CommandBindings>
+        		<CommandBinding Command="Close" CanExecute="CommandBinding_CanExecute" Executed="CommandBinding_Executed"/>
+   		</Window.CommandBindings>
+
+		ENLACE A DATOS
+			Cuando hacemos una interfaz y queremos asignar valor a un omponente o valor que esta en una bd o web 
+			miControl.Text = obj.dato
+			asignacion auto de datos clase Binding
+			<TextBlock x:Name="tblxDestino" Text="{Binding ElementName=tbxOrigen, Path=Text}"/>
+			
+			xmlns:ejemplo="clr-namespace:Migue._04_24EnlaceDatosClaseFilm">
+			
+
+
+

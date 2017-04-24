@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\bin\Debug\Wpfball.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\bin\Debug\Wpfball.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\bin\Debug\Wpfball.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\Wpfball\Wpfball\obj\Debug\Wpfball.csprojResolveAssemblyReference.cache

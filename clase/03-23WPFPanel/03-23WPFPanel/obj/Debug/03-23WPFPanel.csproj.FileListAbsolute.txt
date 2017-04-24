@@ -1,0 +1,16 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\bin\Debug\03-23WPFPanel.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\bin\Debug\03-23WPFPanel.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\bin\Debug\03-23WPFPanel.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\_03_23WPFPanel.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-23WPFPanel\03-23WPFPanel\bin\Debug\03-23WPFPanel.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\03-23WPFPanel\03-23WPFPanel\obj\Debug\03-23WPFPanel.pdb

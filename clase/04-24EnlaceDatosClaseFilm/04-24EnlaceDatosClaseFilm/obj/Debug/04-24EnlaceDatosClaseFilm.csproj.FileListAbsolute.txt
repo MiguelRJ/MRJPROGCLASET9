@@ -1,0 +1,15 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\bin\Debug\04-24EnlaceDatosClaseFilm.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\bin\Debug\04-24EnlaceDatosClaseFilm.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\bin\Debug\04-24EnlaceDatosClaseFilm.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm_MarkupCompile.lref
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\Migue.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-24EnlaceDatosClaseFilm\04-24EnlaceDatosClaseFilm\obj\Debug\04-24EnlaceDatosClaseFilm.pdb
