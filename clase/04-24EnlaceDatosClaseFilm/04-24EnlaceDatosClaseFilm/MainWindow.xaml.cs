@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Migue
+namespace Migue._04_24EnlaceDatosClaseFilm
 {
     /// <summary>
     /// Lógica de interacción para MainWindow.xaml
@@ -23,6 +23,18 @@ namespace Migue
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btnCambiar_Click(object sender, RoutedEventArgs e)
+        {
+            Film film = Resources["filmInfiltrados"] as Film;
+            if (film == null)
+            {
+                return;
+            }
+            film.Titulo = "Se ha cambiado";
+            film.Genero = Genero.Catatrofismo;
+            film.Calificacion = 0.0;
         }
     }
 }

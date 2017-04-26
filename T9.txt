@@ -358,4 +358,22 @@ WPF Basico
 			
 
 
+	04-26-----------------------------
+		
+		<Window.Resources>
+        		<ejemplo:Film x:Key="filmInfiltrados" Titulo="Infiltrados" Genero="Mafia" Oscar="{x:Null}" Calificacion="4.7"/>
+    		</Window.Resources>
 
+		Text="{Binding Titulo, Source={StaticResource filmInfiltrados}}"
+				^Para enlazar propiedad
+		
+		 INotifyPropertyChanged
+			informa de los cambios en las propieddades de las clases
+		
+			problemas con mainwindow initialize 
+				<Window x:Class="Migue._04_24EnlaceDatosClaseFilm.MainWindow"
+			
+		using System.Collections.ObjectModel;//lista observavble con otras funcionalidades
+
+		xmlns:system="System assembly=mscorlib"> >>> añadir al ensamblado los tipos de datos basicos (object,int,string...)
+		
