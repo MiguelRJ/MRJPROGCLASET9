@@ -1,0 +1,16 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\bin\Debug\05-11WpfRecursos.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\bin\Debug\05-11WpfRecursos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\bin\Debug\05-11WpfRecursos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\05-11WpfRecursos.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\05-11WpfRecursos_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\05-11WpfRecursos.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\_05_11WpfRecursos.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\05-11WpfRecursos.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\05-11WpfRecursos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\05-11WpfRecursos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\App.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\Dic1.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfRecursos\05-11WpfRecursos\obj\Debug\Dic2.baml

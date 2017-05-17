@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Film xmln="" Titulo="Infiltrados" Genero="Mafia" Oscar="{x:null}" Calificacion="4.7">
+  <Director Nombre="Martin Scorcese" Nacionalidad="USA"/>
+  <Actores>
+    <Actor Nombre="Leonardo Di Caprio"/>
+    <Actor Nombre="Jack Nicholson"/>
+    <Actor Nombre="Mat Dammon"/>
+    <Actor Nombre="Martin Scheen"/>
+    <Actor Nombre="Alec Baldwin"/>
+  </Actores>
+</Film>

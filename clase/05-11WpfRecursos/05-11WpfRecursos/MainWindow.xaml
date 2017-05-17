@@ -1,0 +1,16 @@
+﻿<Window x:Class="_05_11WpfRecursos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <!-- Recurso de ventana -->
+    <Window.Resources>
+        <SolidColorBrush x:Key="colorFondo1" Color="Blue"/>
+        <SolidColorBrush x:Key="colorFondo2" Color="Yellow"/>
+    </Window.Resources>
+    <Grid Background="Gray">
+        <TextBlock Style="{StaticResource aspectoNormal}" x:Name="tbxMuestra" HorizontalAlignment="Left" Margin="10" Text="TextBlock" VerticalAlignment="Top" Height="50" Width="150" Background="{StaticResource colorFondo2}"/>
+        <Button Style="{StaticResource aspectoEspecial}" Content="Acceder al recurso" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="209" Click="Button_Click"/>
+        <Rectangle x:Name="rectan1" Fill="{StaticResource colorFondo5}" HorizontalAlignment="Left" Height="100" Margin="407,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <TextBlock x:Name="tbxMuestra2" HorizontalAlignment="Left" Margin="10,101,0,0" Text="TextBlock" VerticalAlignment="Top" Height="50" Width="150" Foreground="{StaticResource colorFondo6}"/>
+    </Grid>
+</Window>

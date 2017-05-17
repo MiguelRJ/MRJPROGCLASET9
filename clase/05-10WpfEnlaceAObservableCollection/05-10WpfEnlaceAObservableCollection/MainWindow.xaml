@@ -1,0 +1,38 @@
+﻿<Window x:Class="_05_10WpfEnlaceAObservableCollection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ejemplo de enlace de datos a Observable collection" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="5">
+            <TextBlock Name="tbxNombre" Text="Nombre"/>
+            <TextBox Name="txtNombre"/>
+            <TextBlock Name="tbxApellidos" Text="Apellidos"/>
+            <TextBox Name="txtApellidos"/>
+            <TextBlock Name="tbxFechaNacimiento" Text="FechaNacimiento"/>
+            <TextBox Name="txtFechaNacimiento"/>
+            <TextBlock Name="tbxEstatura" Text="Estatura"/>
+            <TextBox Name="txtEstatura"/>
+            <Button Name="btnAnadirDatos" Content="Añadir Datos" Margin="10" Click="btnAnadirDatos_Click"/>
+            <Button Name="btnBorrarDatos" Content="Borrar Datos" Margin="10" Click="btnBorrarDatos_Click"/>
+            <Button Name="btnCambiarFechaSele" Content="Cambiar Fecha" Margin="10" Click="btnCambiarFechaSele_Click"/>
+        </StackPanel>
+        <ListView ItemsSource="{Binding}" Grid.Row="0" Grid.Column="1" Name="livNombres">
+            <ListView.View>
+                <GridView x:Name="grdNombres">
+                    <GridViewColumn Header="Nombre" DisplayMemberBinding="{Binding Nombre}"/>
+                    <GridViewColumn Header="Apellidos" DisplayMemberBinding="{Binding Apellido}"/>
+                    <GridViewColumn Header="FechaNac" DisplayMemberBinding="{Binding FechaNacimiento}"/>
+                    <GridViewColumn Header="Estatura" DisplayMemberBinding="{Binding Estatura}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

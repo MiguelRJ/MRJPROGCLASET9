@@ -1,0 +1,40 @@
+﻿<Window x:Class="Migue._04_24EnlaceDatosClaseFilm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        xmlns:ejemplo="clr-namespace:Migue._04_24EnlaceDatosClaseFilm">
+    <Window.Resources>
+        <XmlDataProvider x:Key="film1" XPath="Film" Source="Fichero/Infiltrados.xml"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource film1}" Background="#FFC6D8FD">
+        <TextBlock TextWrapping="Wrap" Text="Peliculas" VerticalAlignment="Top"/>
+        <Label Content="Titulo" HorizontalAlignment="Left" Margin="6,53,0,0" VerticalAlignment="Top"/>
+        <Label Content="Genero" HorizontalAlignment="Left" Margin="6,85,0,0" VerticalAlignment="Top"/>
+        <Label Content="Oscar?" HorizontalAlignment="Left" Margin="6,116,0,0" VerticalAlignment="Top"/>
+        <Label Content="Calificacion" HorizontalAlignment="Left" Margin="6,150,0,0" VerticalAlignment="Top"/>
+        <Label Content="Director" HorizontalAlignment="Left" Margin="6,178,0,0" VerticalAlignment="Top"/>
+        <Label Content="1-Prota" HorizontalAlignment="Left" Margin="10,205,0,0" VerticalAlignment="Top"/>
+
+
+        <!-- valores fijos -->
+        <TextBlock Text="{Binding XPath=@Titulo}" HorizontalAlignment="Left" Height="23" Margin="133,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding XPath=@Genero}" HorizontalAlignment="Left" Height="23" Margin="133,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding XPath=@Oscar}" HorizontalAlignment="Left" Height="23" Margin="133,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding XPath=@Calificacion}" HorizontalAlignment="Left" Height="23" Margin="133,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding XPath=Director/@Nombre}" HorizontalAlignment="Left" Height="23" Margin="133,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Text="{Binding XPath=//Actor[1]/@Nombre}" HorizontalAlignment="Left" Height="23" Margin="133,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox SelectedIndex="1" ItemsSource="{Binding XPath=//Actor/@Nombre}" HorizontalAlignment="Left" Height="25" Margin="133,233,0,0" VerticalAlignment="Top" Width="120"/>
+
+        <!-- valores variables -->
+        <TextBox Text="{Binding Titulo}" HorizontalAlignment="Left" Height="23" Margin="387,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Text="{Binding Genero}" HorizontalAlignment="Left" Height="23" Margin="387,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Text="{Binding Oscar}" HorizontalAlignment="Left" Height="23" Margin="387,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Text="{Binding Calificacion}" HorizontalAlignment="Left" Height="23" Margin="387,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="2.064,0.547"/>
+        <TextBox Text="{Binding Director.Nombre}" HorizontalAlignment="Left" Height="23" Margin="387,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="2.064,0.547"/>
+        <TextBox Text="{Binding Actores[0]}" HorizontalAlignment="Left" Height="23" Margin="387,207,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="2.064,0.547"/>
+
+        <!-- Cambiar valor de la porpiedad titulo y otros en la clase-->
+        <Button x:Name="btnCambiar" Content="Actualizar" HorizontalAlignment="Left" Margin="432,288,0,0" VerticalAlignment="Top" Width="75" Click="btnCambiar_Click"/>
+    </Grid>
+</Window>

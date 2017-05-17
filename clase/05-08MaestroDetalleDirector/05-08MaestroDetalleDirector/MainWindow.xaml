@@ -1,0 +1,64 @@
+﻿<Window x:Class="_05_08MaestroDetalleDirector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:ejemplo="clr-namespace:Migue._05_08MaestroDetalleDirector"
+        xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <Window.Resources>
+        <ejemplo:Director x:Key="Spielberg" Nombre="Steven Spielberg" nacionalidad="USA">
+            <ejemplo:Director.Filmes>
+                <!-- Primer film -->
+                <ejemplo:Film Titulo="Jurassik Park" Genero="Aventuras" Oscar="True" Calificacion="5">
+                    <ejemplo:Film.Actores>
+                        <system:String>Sam Neil</system:String>
+                        <system:String>Laura Linne</system:String>
+                        <system:String>Jeff Goldblum</system:String>
+                        <system:String>Richard Atheme...</system:String>
+                        <system:String>Daniel Casado</system:String>
+                    </ejemplo:Film.Actores>
+                </ejemplo:Film>
+
+                <!-- Segundo film -->
+                <ejemplo:Film Titulo="La Lista de Schindler" Genero="Drama" Oscar="True" Calificacion="3.5">
+                    <ejemplo:Film.Actores>
+                        <system:String>Lian Nesson</system:String>
+                        <system:String>Ben Kinsley</system:String>
+                        <system:String>Ralph fiennes</system:String>
+                        <system:String>Elena Guzman</system:String>
+                    </ejemplo:Film.Actores>
+                </ejemplo:Film>
+
+                <!-- Tercera film -->
+                <ejemplo:Film Titulo="Tiburon" Genero="CianciaFiccion" Oscar="True" Calificacion="0">
+                    <ejemplo:Film.Actores>
+                        <system:String>Tiburon - Actor 1</system:String>
+                        <system:String>Tiburon - Actor 2</system:String>
+                        <system:String>Tiburon - Actor 3</system:String>
+                        <system:String>elena Guzman</system:String>
+                    </ejemplo:Film.Actores>
+                </ejemplo:Film>
+                
+            </ejemplo:Director.Filmes>
+        </ejemplo:Director>
+        <ejemplo:ConvertirClasificacion x:Key="convertirClasificacion"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel DataContext="{StaticResource Spielberg}" Orientation="Horizontal" Margin="4,4,4,0">
+            <TextBlock FontSize="14" FontWeight="Bold" Margin="4,4,4,0">Lista de Filmes</TextBlock>
+            <ListBox Name="lbFilmes" ItemsSource="{Binding Filmes}" Margin="4,4,4,0" SelectedIndex="0"/>
+            <Canvas DataContext="{Binding SelectedItem, ElementName=lbFilmes}" Width="240" Background="Beige">
+                <!-- nombre de los campos -->
+                <TextBlock Text="Genero:"/>
+                <TextBlock Text="Oscar:" Canvas.Top="22"/>
+                <TextBlock Text="Calificacion:" Canvas.Top="44"/>
+                <TextBlock Text="Actores:" Canvas.Top="66"/>
+                <!-- valores de los datos enlazados para el detalle -->
+                <TextBlock Text="{Binding Genero}" Canvas.Left="100"/>
+                <TextBlock Text="{Binding Oscar}" Canvas.Left="100" Canvas.Top="22"/>
+                <TextBlock Text="{Binding Calificacion, Converter={StaticResource convertirClasificacion}}" Canvas.Left="100" Canvas.Top="44"/>
+                <ComboBox ItemsSource="{Binding Actores}" Canvas.Left="100" Canvas.Top="66" Width="120"/>
+            </Canvas>
+
+        </StackPanel>
+    </Grid>
+</Window>

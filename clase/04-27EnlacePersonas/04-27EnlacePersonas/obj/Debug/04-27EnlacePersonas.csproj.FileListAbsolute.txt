@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\bin\Debug\04-27EnlacePersonas.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\bin\Debug\04-27EnlacePersonas.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\bin\Debug\04-27EnlacePersonas.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\04-27EnlacePersonas.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\04-27EnlacePersonas_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\04-27EnlacePersonas.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\_04_27EnlacePersonas.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\04-27EnlacePersonas.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\04-27EnlacePersonas.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\04-27EnlacePersonas\04-27EnlacePersonas\obj\Debug\04-27EnlacePersonas.pdb

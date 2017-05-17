@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Añadimos recursos a nivel de disccionario -->
+    <SolidColorBrush x:Key="colorFondo3" Color="Green"/>
+    <SolidColorBrush x:Key="colorFondo4" Color="Black"/>
+    <SolidColorBrush x:Key="colorFondo5" Color="Aqua"/>
+    <SolidColorBrush x:Key="colorFondo6" Color="Beige"/>
+</ResourceDictionary>

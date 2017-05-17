@@ -1,0 +1,16 @@
+D:\TrabajarAsignaturas\Entornos de desarrollo\Proyectos\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\bin\Debug\05-08MaestroDetalleDirector.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\bin\Debug\05-08MaestroDetalleDirector.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector_MarkupCompile.lref
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\bin\Debug\05-08MaestroDetalleDirector.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\bin\Debug\05-08MaestroDetalleDirector.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\_05_08MaestroDetalleDirector.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-08MaestroDetalleDirector\05-08MaestroDetalleDirector\obj\Debug\05-08MaestroDetalleDirector.csproj.GenerateResource.Cache

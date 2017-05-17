@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\bin\Debug\05-15PlantillaDeDatos.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\bin\Debug\05-15PlantillaDeDatos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\bin\Debug\05-15PlantillaDeDatos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\05-15PlantillaDeDatos.csprojResolveAssemblyReference.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\05-15PlantillaDeDatos_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\05-15PlantillaDeDatos.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\_05_15PlantillaDeDatos.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\05-15PlantillaDeDatos.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\05-15PlantillaDeDatos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-15PlantillaDeDatos\05-15PlantillaDeDatos\obj\Debug\05-15PlantillaDeDatos.pdb

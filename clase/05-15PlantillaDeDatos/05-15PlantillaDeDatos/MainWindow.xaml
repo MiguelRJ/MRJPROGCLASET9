@@ -1,0 +1,24 @@
+﻿<Window x:Class="_05_15PlantillaDeDatos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate x:Key="fontFamilyDT">
+            <TextBlock Text="{Binding}" FontFamily="{Binding}" ToolTip="{Binding}" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBlock.BitmapEffect>
+                    <DropShadowBitmapEffect Softness="0.2" Opacity="0.7" ShadowDepth="2"/>
+                </TextBlock.BitmapEffect>
+            </TextBlock>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <Grid Name="grdPrincipal" DataContext="Times New Roman">
+        <Label ContentTemplate="{StaticResource fontFamilyDT}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0">
+            <Image Source="./img/Koala.jpg"/>
+        </Label>
+        <Label ContentTemplate="{StaticResource fontFamilyDT}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,105,0,0">Times New Roman</Label>
+        <Label ContentTemplate="{StaticResource fontFamilyDT}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,206,0,0">Broadway</Label>
+        <Button Content="Cambiar Fuente" HorizontalAlignment="Left" Margin="10,288,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+    </Grid>
+    
+</Window>

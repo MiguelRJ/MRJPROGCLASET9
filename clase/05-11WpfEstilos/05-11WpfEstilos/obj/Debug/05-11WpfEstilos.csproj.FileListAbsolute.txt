@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\bin\Debug\05-11WpfEstilos.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\bin\Debug\05-11WpfEstilos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\bin\Debug\05-11WpfEstilos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\05-11WpfEstilos_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\05-11WpfEstilos.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\_05_11WpfEstilos.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\05-11WpfEstilos.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\05-11WpfEstilos.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\05-11WpfEstilos.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\05-11WpfEstilos\05-11WpfEstilos\obj\Debug\05-11WpfEstilos.csprojResolveAssemblyReference.cache
