@@ -1,0 +1,13 @@
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\bin\Debug\WpfEnlaceAListaPersonas.exe.config
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\bin\Debug\WpfEnlaceAListaPersonas.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\bin\Debug\WpfEnlaceAListaPersonas.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\MainWindow.baml
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\MainWindow.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\App.g.cs
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas_MarkupCompile.cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas.g.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas.Properties.Resources.resources
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas.csproj.GenerateResource.Cache
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas.exe
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas.pdb
+D:\TrabajarAsignaturas\Programacion\Tema9wpf\clase\WpfEnlaceAListaPersonas\WpfEnlaceAListaPersonas\obj\Debug\WpfEnlaceAListaPersonas_MarkupCompile.lref

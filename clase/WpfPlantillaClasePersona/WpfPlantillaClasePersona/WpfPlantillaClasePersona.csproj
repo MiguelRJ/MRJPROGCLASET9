@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F86A9DA8-1A38-4C3F-81B9-0DB7FC5E4BC1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WpfPlantillaClasePersona</RootNamespace>
+    <AssemblyName>WpfPlantillaClasePersona</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ConvertirFecha.cs" />
+    <Compile Include="ListaPersonas.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Persona.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\Botones\avanzar.png" />
+    <Resource Include="Imagenes\Botones\retroceder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\imgCaricaturas\img1.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img2.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img3.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img4.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img5.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img6.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img7.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\img8.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0005_image019.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0005_image021.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0006_image023.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0006_image025.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0007_image027.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0007_image029.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0008_image031.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0008_image033.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0009_image035.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0009_image037.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0010_image039.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0010_image041.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0011_image043.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0011_image045.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0012_image047.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0012_image049.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0013_image051.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0013_image053.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0014_image055.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0015_image057.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0015_image059.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0016_image061.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0016_image063.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0017_image065.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0017_image067.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0018_image069.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0018_image071.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0019_image073.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0019_image075.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0020_image077.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0020_image079.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0021_image081.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0021_image083.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0022_image085.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0022_image087.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0023_image089.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0023_image091.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0024_image093.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0024_image095.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0025_image001.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0026_image097.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0026_image099.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0027_image101.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0027_image103.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0028_image105.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0028_image107.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0029_image109.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0029_image111.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0030_image113.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0031_image115.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0031_image117.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0032_image119.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0032_image121.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0033_image123.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0033_image125.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0034_image127.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0034_image129.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0035_image131.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0035_image133.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0036_image135.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0037_image137.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0037_image139.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0038_image141.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0038_image143.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0039_image145.jpg" />
+    <Resource Include="Imagenes\imgCaricaturas\slide0039_image147.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

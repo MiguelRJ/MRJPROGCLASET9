@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfPlantillaClasePersona.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:mio="clr-namespace:Migue.Wpf_EnlacesDataContextAClases">
+    <Window.Resources>
+        <!-- Creo recursos para... -->
+        <!-- Crea recursos para convertir fecha -->
+        <mio:ConvertirFecha x:Key="convertirFecha"/>
+        <!-- Estilos que uso dentro de la pantilla -->
+        <Style x:Key="stlNombreCampos" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+        <!-- Estilos para el titulo de la ventana -->
+        <Style x:Key="stlTitulo" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="FontFamily" Value="Algerian"/>
+            <Setter Property="FontSize" Value="30"/>
+        </Style>
+        <!-- Estilos para mostrar los datos de personas -->
+        <Style x:Key="stlDatosPersonas" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FF263DCd"/>
+            <Setter Property="FontWeight" Value="Black"/>
+        </Style>
+        <!-- Estilos para mostrar la foto de persona -->
+        <Style x:Key="stlFoto" TargetType="{x:Type Image}">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="440,0,0,0"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="75"/>
+            <Setter Property="Width" Value="65"/>
+        </Style>
+        <DataTemplate x:Key="plantillaPersonas">
+            <Grid>
+                <!-- Titulo mostrado -->
+                <TextBlock Text="Datos de personas" Style="{StaticResource stlTitulo}"/>
+                <StackPanel Orientation="Vertical" Margin="0,48,318,88">
+                    <TextBlock Text="Nombre:" Style="{StaticResource stlNombreCampos}"/>
+                    <TextBlock Text="Apellidos:" Style="{StaticResource stlNombreCampos}"/>
+                    <TextBlock Text="Fecha Nacimiento:" Style="{StaticResource stlNombreCampos}"/>
+                    <TextBlock Text="Estatura:" Style="{StaticResource stlNombreCampos}"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" Margin="210,48,0,88">
+                    <TextBlock Text="{Binding Nombre}" Style="{StaticResource stlDatosPersonas}"/>
+                    <TextBlock Text="{Binding Apellidos}" Style="{StaticResource stlDatosPersonas}"/>
+                    <TextBlock Text="{Binding FechaNacimiento, Converter={StaticResource convertirFecha}}" Style="{StaticResource stlDatosPersonas}"/>
+                    <TextBlock Text="{Binding Estatura}" Style="{StaticResource stlDatosPersonas}"/>
+                </StackPanel>
+                <!-- Boton para cambiar de persona -->
+                <Button Name="btnSiguiente" Width="110" Height="50" Content="Siguiente" Margin="100,250,0,0" Click="btnSiguiente_Click"/>
+                <Image Name="imgFoto" Source="{Binding Foto}" Style="{StaticResource stlFoto}"/>
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <Grid x:Name="grdDatos">
+        <ContentControl Content="{Binding}" ContentTemplate="{StaticResource plantillaPersonas}"/>
+    </Grid>
+</Window>
